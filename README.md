@@ -1,16 +1,11 @@
-# foodcritic
+# Food Review
 
-A new Flutter project.
+A simple design created with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/6569911-Recipes/attachments
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/YxF5CW7JRU0
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190607-234049](https://user-images.githubusercontent.com/8137504/59130509-473bb480-898d-11e9-858c-e3c31bde3b99.png)
